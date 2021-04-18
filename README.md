@@ -1,6 +1,6 @@
 # CentOS 8 Ansible Test Image
 
-[![CI](https://github.com/buluma/docker-centos8-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/buluma/docker-centos8-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/buluma/docker-centos8-ansible)](https://hub.docker.com/r/buluma/docker-centos8-ansible/)
+[![Build](https://github.com/buluma/docker-centos8-ansible/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/buluma/docker-centos8-ansible/actions/workflows/build.yml) [![Docker pulls](https://img.shields.io/docker/pulls/buluma/docker-centos8-ansible)](https://hub.docker.com/r/buluma/docker-centos8-ansible/)
 
 CentOS 8 Docker container for Ansible playbook and role testing.
 
