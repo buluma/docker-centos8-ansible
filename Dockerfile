@@ -1,5 +1,5 @@
-FROM centos:8
-LABEL maintainer="Jeff Geerling"
+FROM buluma/centos:centos8
+LABEL maintainer="Michael Buluma"
 ENV container=docker
 
 ENV pip_packages "ansible"
